@@ -5,16 +5,11 @@ lang: en
 weight: 0
 ---
 
-The software is designed to run on most hardware, and should work on any system with equivalent or better specifications.
+The software is designed to run on most hardware and should work on any system with equivalent or better specifications.
 However, it's important to note that hardware and software are closely interconnected.
 So, before selecting an operating system, make sure that the minimum system requirements are met.
 
-{{<hint type=note icon=gdoc_info_outline >}}
-Please note that Autodarts is primarily developed for Linux-based systems. While there are setups available for Windows and macOS, they are currently in alpha release and may contain bugs.
-{{< /hint >}}
-
-Releases are available at Github.
-Follow the link in the menu to the left.
+The Autodarts Desktop software can be downloaded from [autodarts.io/downloads](https://autodarts.io/downloads/)
 
 {{<hint type=important icon=gdoc_error_outline >}}
 For Autodarts, the minimum hardware requirements are as follows.
@@ -51,9 +46,11 @@ Please check out the [Example Setups](https://docs.autodarts.io/getting-started/
 
 ## Cameras
 
-For cameras, you should consider purchasing OV9732 with a 100° viewing angle. These cameras work great and offer a good price-performance ratio. Other cameras should also work. Before buying, please visit the [Discord](https://discord.com/invite/autodarts) server. PLEASE use the search function before you Post "Is this camera working"!
+For cameras, you should consider purchasing GXIVision or HBVCam OV9732 with a 100° viewing angle. These cameras work great and offer a good price-performance ratio. 
+Please note, that not all OV9732 modules are the same. The Dexcin OV9732 is known to cause problems on some systems and it is not recommended.
+Other cameras should also work. Before buying, please visit the [Discord](https://discord.com/invite/autodarts) server. PLEASE use the search function before you Post "Is this camera working"!
 
 ## Dartboard illumination
 
-You can buy ready-made solutions like the "Winmau Plasma" or "Target Corona." You can also build your own ring. For this, please check out the 3D Printing [3D Printing section](https://docs.autodarts.io/3d-printing/), where you can find STL files for the Winmau Plasma ring. Additionally, you can find files to construct your own ring.
+You can buy ready-made solutions like the "Winmau Plasma" or "Target Corona." You can also build your own ring. For this, please check out the 3D Printing [3D Printing section](https://docs.autodarts.io/3d-printing/), where you can find STL files for the Winmau Plasma ring. Additionally, you can find files to construct your own ring on [cult3d](https://cults3d.com/).
 
